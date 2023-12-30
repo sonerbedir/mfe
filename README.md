@@ -9,6 +9,7 @@ To set up the applications in the local environment:
 Firstly, dependencies need to be installed. Use either npm install or yarn install, whichever is suitable for you.
 
 Marketing: localhost:8081
+
 Container: localhost:8080
 
 production: https://d1c528h86wppvj.cloudfront.net/
